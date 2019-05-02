@@ -7,6 +7,7 @@ import ascii4
 import ascii5
 import ascii6
 import ascii7
+import ascii72
 import ascii8
 import ascii9
 import ascii10
